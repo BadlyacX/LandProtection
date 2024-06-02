@@ -1,0 +1,11 @@
+name: LandProtection
+version: 1.0
+main: com.badlyac.LandProtection
+author: Badlyac
+commands:
+  LandProtection:
+    usage: /LandProtection <area name> <radius>
+    description: "Protects a region with a radius around it."
+  removeprotection:
+    usage: /removeprotection <area name>
+    description: "Removes the protection of a region."
